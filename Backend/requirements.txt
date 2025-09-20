@@ -1,2 +1,2 @@
-fastapi
+pip fastapi
 uvicorn[standard]

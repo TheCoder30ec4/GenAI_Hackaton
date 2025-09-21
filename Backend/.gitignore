@@ -86,3 +86,6 @@ venv.bak/
 # IDEs
 .idea/
 .vscode/
+
+# Service account keys
+firebase-service-account.json

@@ -1,2 +1,3 @@
-fastapi
+pip fastapi
 uvicorn[standard]
+firebase-admin
